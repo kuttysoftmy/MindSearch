@@ -11,6 +11,6 @@ pyvis
 schemdraw
 sse-starlette
 termcolor
-transformers==4.41.0
+transformers==4.48.0
 uvicorn
 tenacity
